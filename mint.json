@@ -18,11 +18,11 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:aibooks@seznam.cz"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Website",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
@@ -50,11 +50,9 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Translate",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
